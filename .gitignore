@@ -1,0 +1,9 @@
+.vscode/
+.git/
+.github/
+venv/
+__pycache__/
+video/
+notPush/
+how to run.txt
+line.jpg
